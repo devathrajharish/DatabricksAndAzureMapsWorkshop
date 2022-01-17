@@ -50,8 +50,8 @@ var json2 = """
 val namespaceName = "v-hdev-event"
 val eventHubName = "v-hdev-hub"
 val SharedAccessKeyName= "RootManageSharedAccessKey"
-val sasKey = "sUrnmPA3NGWHHXa"
-val connStr = "Endpoint=sb://v-hdev-event.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=sUrnmPA3NGWHHX"
+val sasKey = "<>"
+val connStr = "Endpoint=sb://v-hdev-event.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=<>"
 
 // COMMAND ----------
 
